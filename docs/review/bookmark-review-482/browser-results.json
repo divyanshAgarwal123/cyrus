@@ -1,0 +1,51 @@
+{
+  "pass": true,
+  "results": [
+    {
+      "port": 5332,
+      "realNextServerActions": true,
+      "realNeonDriverAndPostgres": true,
+      "twoUsers": true,
+      "twoDevices": true,
+      "shareRevocation": true,
+      "rollback": true,
+      "staleReadCannotOverwriteMutation": true,
+      "delayedJSONCannotOverwriteMutation": true,
+      "postcommitReadFailureRecovery": true,
+      "settingsProgramRemovalConfirmation": true,
+      "signedOutSameOwnerNotice": true,
+      "importThenRemoveSerialized": true,
+      "layouts": [
+        320,
+        375,
+        430,
+        850,
+        1360
+      ]
+    },
+    {
+      "port": 5334,
+      "realNextServerActions": true,
+      "realNeonDriverAndPostgres": true,
+      "twoUsers": true,
+      "twoDevices": true,
+      "shareRevocation": true,
+      "rollback": true,
+      "staleReadCannotOverwriteMutation": true,
+      "delayedJSONCannotOverwriteMutation": true,
+      "postcommitReadFailureRecovery": true,
+      "settingsProgramRemovalConfirmation": true,
+      "signedOutSameOwnerNotice": true,
+      "importThenRemoveSerialized": true,
+      "layouts": [
+        320,
+        375,
+        430,
+        850,
+        1360
+      ]
+    }
+  ],
+  "errors": [],
+  "failures": []
+}
