@@ -1,0 +1,220 @@
+                                                                                                             Program catalog
+cyrus.ai
+
+
+Program catalog
+Status: closed. All matching catalog programs.
+
+Published catalog information, not a live application-status check. Confirm dates and eligibility with each organizer.
+
+
+
+Programs exported                  4
+
+
+
+
+     Programs by recorded status
+
+     live                                                                                                                0
+
+
+     upcoming                                                                                                            0
+
+
+     closed                                                                                                              4
+
+
+
+
+Generated 2026-11-20T19:29:11.580Z. Source information is a snapshot.
+
+
+cyrus.ai | 1 / 5
+                                                                                                                 Program catalog
+cyrus.ai
+
+
+Google Summer of Code
+Program information - closed
+
+Write real code for open-source orgs, mentored full-time over the summer.
+
+
+
+Official source                    https://summerofcode.withgoogle.com
+
+Application window                 Applications close April
+
+Stipend                            $1,500 - $3,300
+
+Organizations                      519 orgs archived
+
+Projects                           12,095 projects 2016-2026
+
+Country eligibility                Published rule: "18+ and legally able to work in your country" - open anywhere the applicant may
+                                   lawfully work.
+
+Participant eligibility            Published rule: "students and non-students alike".
+
+
+
+
+     Published phase durations (months)
+
+     Org applications (0-1.6)                                                                                               1.6
+
+
+     Student applications (2.1-3.8)                                                                                         1.7
+
+
+     Community bonding (3.8-4.6)                                                                                           0.8
+
+
+     Coding period (4.6-8.2)                                                                                                3.6
+
+
+
+
+Generated 2026-11-20T19:29:11.580Z. Source information is a snapshot.
+
+
+cyrus.ai | 2 / 5
+                                                                                                                 Program catalog
+cyrus.ai
+
+
+Eclipse SoC
+Program information - closed
+
+Summer contributions to Eclipse Foundation projects with structured mentoring.
+
+
+
+Official source                    https://soc.eclipse.to
+
+Application window                 Runs May - August
+
+Stipend                            €500 - €1,200
+
+Organizations                      No published roster
+
+Projects                           Counts unpublished
+
+Country eligibility                Published rule: "Open worldwide" - the push for European students is a preference, not a limit.
+
+Participant eligibility            Published rule: "European students and career starters" - students and those who have started
+                                   work.
+
+
+
+
+     Published phase durations (months)
+
+     Project proposals (2.8-4.2)                                                                                            1.4
+
+
+     Teams formed (4.2-4.9)                                                                                                 0.7
+
+
+     Coding & demos (4.9-7.6)                                                                                               2.7
+
+
+
+
+Generated 2026-11-20T19:29:11.580Z. Source information is a snapshot.
+
+
+cyrus.ai | 3 / 5
+                                                                                                               Program catalog
+cyrus.ai
+
+
+FOSSEE Summer Fellowship
+Program information - closed
+
+IIT Bombay mentored fellowship on FLOSS tooling: Scilab, Python, Oxide and more.
+
+
+
+Official source                    https://fossee.in/fellowship/2026
+
+Application window                 2026 cycle completed 8 June
+
+Stipend                            Unpaid
+
+Organizations                      IIT Bombay tracks
+
+Projects                           Cohort size unpublished
+
+Country eligibility                Published rule: "Students applying through the FOSSEE registration desk at IIT Bombay" - a
+                                   nationally run (India / Asia) fellowship.
+
+Participant eligibility            Published rule: "Students applying through the FOSSEE registration desk".
+
+
+
+
+     Published phase durations (months)
+
+     Registration (2-3)                                                                                                     1
+
+
+     Screening tasks (3-4)                                                                                                  1
+
+
+     Fellowship (4.2-7)                                                                                                   2.8
+
+
+
+
+Generated 2026-11-20T19:29:11.580Z. Source information is a snapshot.
+
+
+cyrus.ai | 4 / 5
+                                                                                                    Program catalog
+cyrus.ai
+
+
+Vercel Open Source Program
+Program information - closed
+
+Platform credits and hosting for maintained projects - a grant for maintainers, not contributors.
+
+
+
+Official source                    https://vercel.com/open-source-program
+
+Application window                 Applications reopen next quarter
+
+Stipend                            $3,600 credits
+
+Organizations                      32 projects in the Winter 2026 cohort
+
+Projects                           Project teams
+
+Country eligibility                Not published
+
+Participant eligibility            Not published
+
+
+
+
+     Published phase durations (months)
+
+     Winter cohort (1.5-2.6)                                                                                  1.1
+
+
+     Spring cohort (4.6-5.9)                                                                                 1.3
+
+
+     Summer cohort (7.2-8.4)                                                                                 1.2
+
+
+
+
+Generated 2026-11-20T19:29:11.580Z. Source information is a snapshot.
+
+
+cyrus.ai | 5 / 5
+

@@ -1,0 +1,15 @@
+{
+  "source": "458bca3",
+  "parent": "fbdf3efe18e692f39e510c9ed7c898bb5b1cdf72",
+  "node": "22.23.5",
+  "checks": {
+    "tests": "786/61 files passed",
+    "typecheck": "passed",
+    "build": "passed",
+    "readme": "passed",
+    "tracedFonts": 2,
+    "productionBrowser": "passed",
+    "renderedDocumentBounds": "passed"
+  },
+  "limits": "Synthetic session, SQL and GitHub transport only; no production account, DB, OAuth login or live deployment claim."
+}

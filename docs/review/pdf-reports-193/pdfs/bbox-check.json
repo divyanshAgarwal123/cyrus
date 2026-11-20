@@ -1,0 +1,26 @@
+[
+  {
+    "file": "programs-a4.pdf",
+    "pages": 14,
+    "safeBounds": true,
+    "allPageCounters": true
+  },
+  {
+    "file": "activity-letter.pdf",
+    "pages": 14,
+    "safeBounds": true,
+    "allPageCounters": true
+  },
+  {
+    "file": "project-a4.pdf",
+    "pages": 1,
+    "safeBounds": true,
+    "allPageCounters": true
+  },
+  {
+    "file": "batch-letter.pdf",
+    "pages": 2,
+    "safeBounds": true,
+    "allPageCounters": true
+  }
+]

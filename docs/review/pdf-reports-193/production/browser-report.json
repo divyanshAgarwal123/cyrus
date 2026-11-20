@@ -1,0 +1,52 @@
+{
+  "checks": [
+    "Actual Next route/JWT/database transport: signed-out and unknown-user 401, unlinked 409, arbitrary identity 400, noncatalog target 404",
+    "Native project PDF download, source snapshot counts, A4, object URL/anchor cleanup and light/dark UI",
+    "Actual status-filtered catalogs, native paper-size selection, selection-change abort without stale download, simulated UI error and real retry",
+    "Real signed-session personal PDF and two independently selected project pages, using synthetic SQL/GitHub transport without changing production auth",
+    "390px mobile containment across all export entry points, zero page errors"
+  ],
+  "downloads": [
+    {
+      "file": "project-a4",
+      "bytes": 12179,
+      "paper": "A4",
+      "pages": 1
+    },
+    {
+      "file": "live-programs-a4",
+      "bytes": 25016,
+      "paper": "A4",
+      "pages": 5
+    },
+    {
+      "file": "closed-programs-letter",
+      "bytes": 25084,
+      "paper": "LETTER",
+      "pages": 5
+    },
+    {
+      "file": "single-program-a4",
+      "bytes": 15157,
+      "paper": "A4",
+      "pages": 2
+    },
+    {
+      "file": "own-activity-a4",
+      "bytes": 14108,
+      "paper": "A4",
+      "pages": 2
+    },
+    {
+      "file": "batch-projects-a4",
+      "bytes": 15353,
+      "paper": "A4",
+      "pages": 2
+    }
+  ],
+  "pageErrors": [],
+  "expectedAborts": [
+    "net::ERR_ABORTED"
+  ],
+  "passed": true
+}

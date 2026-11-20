@@ -1,0 +1,17 @@
+
+> cyrus-ai@2.0.0 test
+> vitest run
+
+
+ RUN  v5.0.3 /private/tmp/nsoc-cyrus193
+
+
+ Test Files  61 passed (61)
+      Tests  786 passed (786)
+   Start at  00:54:39
+   Duration  1.89s (import 42%, transform 35%, tests 22%, worker 1%)
+
+  Transform  transforming modules took 5.42s · 35% of tracked time, re-done on every run
+             persist transforms across runs with fsModuleCache: true
+             learn more: https://vitest.dev/guide/improving-performance#caching-between-reruns
+

@@ -1,0 +1,45 @@
+                                                                                                        Project report
+cyrus.ai
+
+
+affaan-m/ECC
+Repository catalog snapshot
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development
+for Claude Code, Codex, Opencode, Cursor and beyond.
+
+Counts are saved catalog data, not live GitHub totals. Live contributor and language breakdowns are not included.
+
+
+
+Source                            https://github.com/affaan-m/ECC
+
+Last updated in snapshot          2026-10-02
+
+Primary language                  JavaScript
+
+License                           MIT
+
+Tags                              ai-agents, anthropic, claude, claude-code, developer-tools
+
+
+
+
+     Recorded repository counts
+
+     Stars                                                                                                271,000
+
+
+     Forks                                                                                                 40,493
+
+
+     Open issues                                                                                               340
+
+
+
+
+Generated 2026-11-20T19:29:06.606Z. Source information is a snapshot.
+
+
+cyrus.ai | 1 / 1
+

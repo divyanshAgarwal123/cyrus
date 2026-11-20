@@ -1,0 +1,109 @@
+
+> cyrus-ai@2.0.0 build
+> next build
+
+▲ Next.js 16.4.5 (Turbopack)
+✓ Running next.config.ts took 15ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 2.4s
+  Running TypeScript ...
+  Finished TypeScript in 5.7s ...
+  Collecting page data using 13 workers ...
+  Generating static pages using 13 workers (0/2057) ...
+  Generating static pages using 13 workers (514/2057) 
+  Generating static pages using 13 workers (1028/2057) 
+  Generating static pages using 13 workers (1542/2057) 
+✓ Generating static pages using 13 workers (2057/2057) in 2.8s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /about
+├ ○ /affiliations
+├ ƒ /api/auth/email/start
+├ ƒ /api/auth/email/verify
+├ ƒ /api/auth/github
+├ ƒ /api/auth/google
+├ ƒ /api/auth/logout
+├ ƒ /api/bookmark-collections/[token]
+├ ƒ /api/catalog/counts
+├ ƒ /api/catalog/repos
+├ ƒ /api/health
+├ ƒ /api/issues
+├ ƒ /api/me
+├ ƒ /api/me/applications
+├ ƒ /api/me/bookmark-collections
+├ ƒ /api/me/saved
+├ ƒ /api/mentorship/feedback
+├ ƒ /api/mentorship/matches
+├ ƒ /api/mentorship/mentees
+├ ƒ /api/mentorship/mentors
+├ ƒ /api/mentorship/requests
+├ ƒ /api/mentorship/requests/[id]
+├ ƒ /api/mentorship/sessions
+├ ƒ /api/reports
+├ ƒ /api/submissions
+├ ƒ /api/users/[login]/activity
+├ ƒ /bookmarks/share/[token]
+├ ○ /compare
+├ ○ /cookies
+├ ○ /dashboard
+├   /dashboard/[feature]
+│ ├ ● /dashboard/bookmarks
+│ ├ ● /dashboard/issues
+│ ├ ● /dashboard/repos
+│ └ ● [+9 more paths]
+├ ƒ /dashboard/analytics
+├ ○ /issues
+├ ○ /leaderboard
+├ ƒ /llms.txt
+├ ○ /mentorship
+├ ○ /onboarding
+├ ○ /opengraph-image
+├ ○ /organizations
+├   /organizations/[login]
+│ ├ ● /organizations/github
+│ ├ ● /organizations/apache
+│ ├ ● /organizations/tensorflow
+│ └ ● [+361 more paths]
+├ ○ /organizations/stats
+├ ○ /platform/features
+├ ○ /platform/how
+├ ○ /platform/trust
+├ ○ /privacy
+├ ○ /programs
+├   /programs/[id]
+│ ├ ● /programs/gsoc
+│ ├ ● /programs/outreachy
+│ ├ ● /programs/lfx
+│ └ ● [+10 more paths]
+├   /programs/[id]/opengraph-image
+│ ├ ● /programs/gsoc/opengraph-image
+│ ├ ● /programs/outreachy/opengraph-image
+│ ├ ● /programs/lfx/opengraph-image
+│ └ ● [+10 more paths]
+├   /programs/[id]/organizations
+│ ├ ● /programs/gsoc/organizations
+│ ├ ● /programs/outreachy/organizations
+│ ├ ● /programs/lfx/organizations
+│ └ ● [+10 more paths]
+├ ○ /projects
+├   /repo/[id]
+│ ├ ● /repo/affaan-m%252FECC
+│ ├ ● /repo/NousResearch%252Fhermes-agent
+│ ├ ● /repo/n8n-io%252Fn8n
+│ └ ● [+1612 more paths]
+├ ○ /robots.txt
+├ ○ /sitemap.xml
+├ ○ /skills
+├ ○ /sponsors
+├ ○ /terms
+└ ƒ /users/[login]
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+

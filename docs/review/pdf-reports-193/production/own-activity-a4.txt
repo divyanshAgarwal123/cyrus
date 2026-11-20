@@ -1,0 +1,73 @@
+                                                                                                     Recent public activity
+cyrus.ai
+
+
+pdf-fixture
+Recent public GitHub activity
+
+Source: the first page of GitHub's public Events API (at most 100 source events). This is a partial recent window, not
+all-time history, commit totals or a contribution score.
+
+Counts below describe normalized events returned in this response; private activity is not included.
+
+
+
+GitHub profile                     https://github.com/pdf-fixture
+
+Feed fetched at                    2026-11-20T19:29:15.953Z
+
+Events in this response            4
+
+Newest event                       2026-11-20T12:00:00Z
+
+Oldest event                       2026-11-17T12:00:00Z
+
+
+
+
+     Events in this response by kind
+
+     Pushes                                                                                                              2
+
+
+     Pull requests                                                                                                       2
+
+
+
+
+Generated 2026-11-20T19:29:15.953Z. Source information is a snapshot.
+
+
+cyrus.ai | 1 / 2
+                                                                        Recent public activity
+cyrus.ai
+
+
+Recent event details
+pdf-fixture - events 1-4 of 4
+
+
+Synthetic PR 1
+2026-11-20T12:00:00Z | Pull requests | fixture/project
+https://github.com/fixture/project/pull/1
+
+Synthetic commit
+2026-11-19T12:00:00Z | Pushes | fixture/project
+https://github.com/fixture/project
+
+Synthetic PR 3
+2026-11-18T12:00:00Z | Pull requests | fixture/project
+https://github.com/fixture/project/pull/3
+
+Synthetic commit
+2026-11-17T12:00:00Z | Pushes | fixture/project
+https://github.com/fixture/project
+
+
+
+
+Generated 2026-11-20T19:29:15.953Z. Source information is a snapshot.
+
+
+cyrus.ai | 2 / 2
+

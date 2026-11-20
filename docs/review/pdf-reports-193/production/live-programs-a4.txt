@@ -1,0 +1,212 @@
+                                                                                                         Program catalog
+cyrus.ai
+
+
+Program catalog
+Status: live. All matching catalog programs.
+
+Published catalog information, not a live application-status check. Confirm dates and eligibility with each organizer.
+
+
+
+Programs exported                 4
+
+
+
+
+     Programs by recorded status
+
+     live                                                                                                            4
+
+
+     upcoming                                                                                                        0
+
+
+     closed                                                                                                          0
+
+
+
+
+Generated 2026-11-20T19:29:09.587Z. Source information is a snapshot.
+
+
+cyrus.ai | 1 / 5
+                                                                               Program catalog
+cyrus.ai
+
+
+LFX Mentorship
+Program information - live
+
+Cloud & ecosystem mentored projects across Linux Foundation host projects.
+
+
+
+Official source                   https://mentorship.lfx.linuxfoundation.org
+
+Application window                Term 3 running now · Sep - Nov
+
+Stipend                           $1,500 - $3,000
+
+Organizations                     47 host projects
+
+Projects                          1,303 projects 2019-2026
+
+Country eligibility               Published rule: "Open worldwide".
+
+Participant eligibility           Not published
+
+
+
+
+     Published phase durations (months)
+
+     Term 1 (2-5)                                                                        3
+
+
+     Term 2 (5-8)                                                                        3
+
+
+     Term 3 (8.3-11)                                                                    2.7
+
+
+
+
+Generated 2026-11-20T19:29:09.587Z. Source information is a snapshot.
+
+
+cyrus.ai | 2 / 5
+                                                                              Program catalog
+cyrus.ai
+
+
+MLH Fellowship
+Program information - live
+
+A remote, batch-based alternative to internships on real open-source teams.
+
+
+
+Official source                   https://fellowship.mlh.io
+
+Application window                Fall batch in session
+
+Stipend                           Paid tracks
+
+Organizations                     120 upstream orgs
+
+Projects                          198 forked repositories
+
+Country eligibility               Published rule: "Open worldwide".
+
+Participant eligibility           Not published
+
+
+
+
+     Published phase durations (months)
+
+     Spring batch (2.5-5)                                                              2.5
+
+
+     Summer batch (5.3-7.8)                                                            2.5
+
+
+     Fall batch (8.2-10.8)                                                             2.6
+
+
+
+
+Generated 2026-11-20T19:29:09.587Z. Source information is a snapshot.
+
+
+cyrus.ai | 3 / 5
+                                                                                                        Program catalog
+cyrus.ai
+
+
+GSSoC'26
+Program information - live
+
+Three-month open-source contribution sprint, biggest women-led program in India.
+
+
+
+Official source                   https://gssoc.girlscript.tech
+
+Application window                Contributions Aug - Nov
+
+Stipend                           Leaderboard prizes
+
+Organizations                     420 project orgs
+
+Projects                          423 projects in the 2026 board
+
+Country eligibility               Published rule: "Open to anyone, anywhere".
+
+Participant eligibility           Published rule: "Open to anyone, anywhere; students especially welcome" - non-students
+                                  may apply too.
+
+
+
+
+     Published phase durations (months)
+
+     Registration (6.3-7.4)                                                                                        1.1
+
+
+     Contribution period (7.4-10.6)                                                                               3.2
+
+
+     Evaluation (10.6-11.2)                                                                                      0.6
+
+
+
+
+Generated 2026-11-20T19:29:09.587Z. Source information is a snapshot.
+
+
+cyrus.ai | 4 / 5
+                                                                                       Program catalog
+cyrus.ai
+
+
+Hacktoberfest
+Program information - live
+
+One month of pull requests, first-timer friendly, the on-ramp for most contributors.
+
+
+
+Official source                   https://hacktoberfest.com
+
+Application window                All of October · you are here
+
+Stipend                           Badge + tree
+
+Organizations                     Any GitHub project
+
+Projects                          Open to all
+
+Country eligibility               Not published
+
+Participant eligibility           Not published
+
+
+
+
+     Published phase durations (months)
+
+     Prep & first-timer issues (8.3-9)                                                          0.7
+
+
+     Hacktoberfest (9-10)                                                                         1
+
+
+
+
+Generated 2026-11-20T19:29:09.587Z. Source information is a snapshot.
+
+
+cyrus.ai | 5 / 5
+

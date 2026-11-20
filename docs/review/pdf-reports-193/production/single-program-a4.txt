@@ -1,0 +1,83 @@
+                                                                                                         Program catalog
+cyrus.ai
+
+
+Program catalog
+Status: all. Selected programs only.
+
+Published catalog information, not a live application-status check. Confirm dates and eligibility with each organizer.
+
+
+
+Programs exported                  1
+
+
+
+
+     Programs by recorded status
+
+     live                                                                                                            0
+
+
+     upcoming                                                                                                        0
+
+
+     closed                                                                                                              1
+
+
+
+
+Generated 2026-11-20T19:29:14.527Z. Source information is a snapshot.
+
+
+cyrus.ai | 1 / 2
+                                                                                                             Program catalog
+cyrus.ai
+
+
+Google Summer of Code
+Program information - closed
+
+Write real code for open-source orgs, mentored full-time over the summer.
+
+
+
+Official source                    https://summerofcode.withgoogle.com
+
+Application window                 Applications close April
+
+Stipend                            $1,500 - $3,300
+
+Organizations                      519 orgs archived
+
+Projects                           12,095 projects 2016-2026
+
+Country eligibility                Published rule: "18+ and legally able to work in your country" - open anywhere the applicant
+                                   may lawfully work.
+
+Participant eligibility            Published rule: "students and non-students alike".
+
+
+
+
+     Published phase durations (months)
+
+     Org applications (0-1.6)                                                                                            1.6
+
+
+     Student applications (2.1-3.8)                                                                                      1.7
+
+
+     Community bonding (3.8-4.6)                                                                                        0.8
+
+
+     Coding period (4.6-8.2)                                                                                            3.6
+
+
+
+
+Generated 2026-11-20T19:29:14.527Z. Source information is a snapshot.
+
+
+cyrus.ai | 2 / 2
+
