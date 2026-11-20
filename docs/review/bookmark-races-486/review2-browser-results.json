@@ -1,0 +1,45 @@
+{
+  "pass": true,
+  "results": [
+    {
+      "port": 5335,
+      "oldNegativeControl": true,
+      "realTwoTabsSharedLocalStorage": true,
+      "bothInitialRefsStale": true,
+      "divergentXAndYFailures": true,
+      "remoteDeletionThenReload": true,
+      "replayedX": 1,
+      "deletedXResurrected": true,
+      "actualAnonymousIdentityThenSignIn": true,
+      "pendingRemovalResurrected": true,
+      "pass": true
+    },
+    {
+      "port": 5332,
+      "oldNegativeControl": false,
+      "realTwoTabsSharedLocalStorage": true,
+      "bothInitialRefsStale": true,
+      "divergentXAndYFailures": true,
+      "remoteDeletionThenReload": true,
+      "replayedX": 0,
+      "deletedXResurrected": false,
+      "actualAnonymousIdentityThenSignIn": true,
+      "pendingRemovalResurrected": false,
+      "pass": true
+    },
+    {
+      "port": 5334,
+      "oldNegativeControl": false,
+      "realTwoTabsSharedLocalStorage": true,
+      "bothInitialRefsStale": true,
+      "divergentXAndYFailures": true,
+      "remoteDeletionThenReload": true,
+      "replayedX": 0,
+      "deletedXResurrected": false,
+      "actualAnonymousIdentityThenSignIn": true,
+      "pendingRemovalResurrected": false,
+      "pass": true
+    }
+  ],
+  "errors": []
+}

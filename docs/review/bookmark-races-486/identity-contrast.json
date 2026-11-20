@@ -1,0 +1,37 @@
+{
+  "pass": true,
+  "negativeControlOldLostEdit": true,
+  "fixedDevAndProdPreserveEdit": true,
+  "results": [
+    {
+      "port": 5335,
+      "source": "actual old f644aad production",
+      "allIdentityProbesHeld": true,
+      "probes": 1,
+      "postsBeforeRelease": 0,
+      "bookmarkPersisted": false,
+      "expected": false,
+      "pass": true
+    },
+    {
+      "port": 5332,
+      "source": "actual fixed source, tree equal to follow-up 28daf814",
+      "allIdentityProbesHeld": true,
+      "probes": 1,
+      "postsBeforeRelease": 0,
+      "bookmarkPersisted": true,
+      "expected": true,
+      "pass": true
+    },
+    {
+      "port": 5334,
+      "source": "actual fixed source, tree equal to follow-up 28daf814",
+      "allIdentityProbesHeld": true,
+      "probes": 1,
+      "postsBeforeRelease": 0,
+      "bookmarkPersisted": true,
+      "expected": true,
+      "pass": true
+    }
+  ]
+}
